@@ -14,6 +14,11 @@
 			"*.code-workspace": true,
 			"**/node_modules": true
 		},
-		"explorerExclude.backup": null
+		"explorerExclude.backup": null,
+		"editor.fontFamily": "Operator Mono Lig, Menlo, Monaco, 'Courier New', monospace",
+		"editor.fontLigatures": true,
+		"editor.fontSize": 12,
+		"window.autoDetectColorScheme": true,
+		"liveServer.settings.multiRootWorkspaceName": "monsters-rolodex"
 	}
 }
